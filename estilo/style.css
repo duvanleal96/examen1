@@ -1,7 +1,19 @@
 image{
-	border-radius: 100px;
+	/*border-radius: 300px;*/
+	 float: right;
+  margin-right: 15px;
 }
 
+.contenido{
+	background-size: cover;
+   
+}
+footer {
+    text-align: center;
+    border-top: 5px solid blue;
+    background-color: gray;
+    padding: 10px;
+}
 
 @media screen and (max-width: 600px) {
   .col-25, .col-75, input[type=submit] {
